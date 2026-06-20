@@ -1,1 +1,1 @@
-# Ayakami-Studio
+# AyakamiStudio
